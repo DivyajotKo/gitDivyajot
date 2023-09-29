@@ -1,2 +1,3 @@
 Currently I am studying in the CSD113 course
 it is interesting
+I am learning git 
